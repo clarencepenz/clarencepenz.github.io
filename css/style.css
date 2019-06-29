@@ -84,9 +84,6 @@ li{
 	margin-bottom: 30px;
 }
 
-.showcase-content-skill{
-	margin-top: 50px;
-}
 
 .showcase-content > .showcase-content-skill > .showcase-skill > ul > li{
 	background-color: #fff;
@@ -258,10 +255,13 @@ li{
 		margin: auto;
 		width: 90%;
 		overflow: hidden;
-		padding-top: 30px;
+		padding-top: 20px;
 	}
 
-
+	.showcase-content-skill{
+		margin-top: 30px;
+		margin-bottom: 10px;
+	}
 	
 	.showcase-content > .showcase-content-skill > .showcase-skill > ul > li{
 		background-color: #fff;
@@ -274,6 +274,7 @@ li{
 		width: 75%;
 		margin: auto;
 		overflow: hidden;
+		padding: 20px 0;
 	}
 
 	.project{
@@ -302,6 +303,22 @@ li{
 		top: 93%;
 		left: 85%;
 		transform: translate(50, 50);
+	}
+
+	.fab{
+		font-size: 30px!important;
+	}
+
+	.far{
+		font-size: 30px!important;
+	}
+
+	.fab{
+		font-size: 30px;
+	}
+
+	.fas{
+		font-size: 30px!important;
 	}
 
 }
