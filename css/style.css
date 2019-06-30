@@ -226,7 +226,7 @@ li{
 @media(max-width: 1024px){
 	.showcase{
 		background: linear-gradient(89.6deg, rgba(23, 21, 119, 0.9) -3.13%, rgba(23, 21, 119, 0.9) 110.98%), url('../img/img.jpg') no-repeat;
-		min-height: 60vh;
+		min-height: 70vh;
 		background-size: 150%;
 	}
 
@@ -260,7 +260,7 @@ li{
 	}
 
 	.showcase-content-skill{
-		margin-top: 30px;
+		margin-top: 50px;
 		margin-bottom: 10px;
 	}
 	
