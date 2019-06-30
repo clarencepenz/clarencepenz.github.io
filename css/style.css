@@ -268,7 +268,8 @@ li{
 	.showcase-content > .showcase-content-skill > .showcase-skill > ul > li{
 		background-color: #fff;
 		font-size: 0.7rem;
-		padding: 5px 10px;
+		color: #171577;
+		padding: 10px 10px;
 		margin: 0;
 	}
 
@@ -364,7 +365,7 @@ li{
 		background-color: #fff;
 		color: #171577;
 		font-size: 0.7rem;
-		padding: 10px 10px;
+		padding: 5px 10px;
 		margin: 0;
 	}
 
@@ -414,7 +415,7 @@ li{
 
 	.showcase-top{
 		color: #fff;
-		padding: 60px 0 0 0!important;
+		padding: 40px 0 0 0!important;
 	}
 
 
