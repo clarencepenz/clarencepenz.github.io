@@ -227,12 +227,12 @@ li{
 	.showcase{
 		background: linear-gradient(89.6deg, rgba(23, 21, 119, 0.9) -3.13%, rgba(23, 21, 119, 0.9) 110.98%), url('../img/img.jpg') no-repeat;
 		min-height: 90vh;
-		background-size: 210%;
+		background-size: 310%;
 	}
 
 	.showcase-top{
 		color: #fff;
-		padding: 50px 0 0 0!important;
+		padding: 90px 0 0 0!important;
 	}
 
 
@@ -260,7 +260,7 @@ li{
 	}
 
 	.showcase-content-skill{
-		margin-top: 70px!important;
+		padding-top: 50px!important;
 		margin-bottom: 10px;
 	}
 	
