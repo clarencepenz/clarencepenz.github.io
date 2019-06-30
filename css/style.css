@@ -226,20 +226,20 @@ li{
 @media(max-width: 1024px){
 	.showcase{
 		background: linear-gradient(89.6deg, rgba(23, 21, 119, 0.9) -3.13%, rgba(23, 21, 119, 0.9) 110.98%), url('../img/img.jpg') no-repeat;
-		min-height: 90vh;
+		min-height: 95vh;
 		background-size: 310%;
 	}
 
 	.showcase-top{
 		color: #fff;
-		padding: 90px 0 0 0!important;
+		padding: 110px 0 0 0!important;
 	}
 
 
 	.showcase-top .logo{
 		position: absolute;
 		left: 15%;
-		transform: translate(-50%, -50%);
+		transform: translate(-30%, -50%);
 		height: 10%;
 	}
 
@@ -254,6 +254,7 @@ li{
 		color: #FA8982!important;
 		text-align: center;
 		margin: auto;
+		margin-bottom: 20px!important;
 		width: 90%;
 		overflow: hidden;
 		padding-top: 20px;
@@ -412,7 +413,7 @@ li{
 
 	.showcase-top{
 		color: #fff;
-		padding: 40px 0 0 0;
+		padding: 20px 0 0 0!important;
 	}
 
 
