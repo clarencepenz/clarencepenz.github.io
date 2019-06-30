@@ -426,19 +426,19 @@ li{
 	}
 
 	.showcase-content h1{
-		font-size: 30px;
+		font-size: 20px;
 		color: #fff;
 		padding-top: 40px;
 	}
 
 	.about{
-		font-size: 1rem!important;
+		font-size: 0.8rem!important;
 		color: #f4f4f4;
 		text-align: center;
 		margin: auto;
 		width: 90%;
 		overflow: hidden;
-		padding-top: 30px;
+		padding-top: 20px;
 	}
 
 	.logos{
@@ -469,8 +469,8 @@ li{
 		padding: 40px 0;
 	}
 	.showcase-content p{
-		font-size: 20px;
-		font-weight: 300;
+		font-size: 10px;
+		font-weight: 200;
 		color: #FEEA7A;
 	}
 
