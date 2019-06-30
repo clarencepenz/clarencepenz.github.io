@@ -226,13 +226,13 @@ li{
 @media(max-width: 1024px){
 	.showcase{
 		background: linear-gradient(89.6deg, rgba(23, 21, 119, 0.9) -3.13%, rgba(23, 21, 119, 0.9) 110.98%), url('../img/img.jpg') no-repeat;
-		min-height: 90vh;
-		background-size: 305%;
+		min-height: 92vh;
+		background-size: 307%;
 	}
 
 	.showcase-top{
 		color: #fff;
-		padding-top: 50px!important;
+		padding-top: 70px!important;
 	}
 
 
@@ -267,9 +267,9 @@ li{
 	
 	.showcase-content > .showcase-content-skill > .showcase-skill > ul > li{
 		background-color: #fff;
-		font-size: 0.5rem;
+		font-size: 0.8rem;
 		color: #171577;
-		padding: 15px 10px;
+		padding: 20px 10px;
 		margin: 0;
 	}
 
