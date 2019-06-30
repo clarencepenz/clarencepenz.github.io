@@ -408,8 +408,8 @@ li{
 @media(max-width: 441px){
 	.showcase{
 		background: linear-gradient(89.6deg, rgba(23, 21, 119, 0.9) -3.13%, rgba(23, 21, 119, 0.9) 110.98%), url('../img/img.jpg') no-repeat;
-		min-height: 85vh;
-		background-size: 305%;
+		min-height: 80vh;
+		background-size: 300%;
 	
 	}
 
