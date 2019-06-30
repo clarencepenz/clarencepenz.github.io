@@ -245,7 +245,7 @@ li{
 	.showcase-content h1{
 		font-size: 50px;
 		color: #fff;
-		padding-top: 40px;
+		padding-top: 20px;
 	}
 
 	.about{
@@ -286,9 +286,10 @@ li{
 		align-self: center;
 		padding: 40px 0;
 	}
+
 	.showcase-content p{
-		font-size: 30px;
-		font-weight: bold;
+		font-size: 20px;
+		font-weight: 200;
 		color: #FEEA7A;
 	}
 
@@ -306,19 +307,19 @@ li{
 	}
 
 	.fab{
-		font-size: 30px!important;
+		font-size: 50px!important;
 	}
 
 	.far{
-		font-size: 30px!important;
+		font-size: 50px!important;
 	}
 
 	.fab{
-		font-size: 30px;
+		font-size: 50px;
 	}
 
 	.fas{
-		font-size: 30px!important;
+		font-size: 50px!important;
 	}
 
 }
@@ -346,12 +347,12 @@ li{
 	.showcase-content h1{
 		font-size: 50px;
 		color: #fff;
-		padding-top: 40px;
+		padding-top: 20px;
 	}
 
 	.about{
-		font-size: 1.2rem!important;
-		color: #f4f4f4;
+		font-size: 0.8rem!important;
+		color: #FA8982!important;
 		text-align: center;
 		margin: auto;
 		width: 90%;
@@ -363,7 +364,7 @@ li{
 	
 	.showcase-content > .showcase-content-skill > .showcase-skill > ul > li{
 		background-color: #fff;
-		font-size: 1rem;
+		font-size: 0.7rem;
 		padding: 5px 10px;
 		margin: 0;
 	}
@@ -432,8 +433,8 @@ li{
 	}
 
 	.about{
-		font-size: 1rem!important;
-		color: #f4f4f4;
+		font-size: 0.8rem!important;
+		color: #FA8982!important;
 		text-align: center;
 		margin: auto;
 		width: 90%;
