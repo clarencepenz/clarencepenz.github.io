@@ -17,7 +17,7 @@ function scrollToTop(e){
 	//let position = document.body.scrollToTop || document.documentElement.scrollToTop;
 	if(document.body.scrollTop !=0 || document.documentElement.scrollTop != 0){
 		//window.scrollBy(0, -Math.max(10, Math.floor(position / 10)));
-		//scrollAnimation=setTimeout('scrollToTop()',10);
+		
 
 		window.scrollBy(0, -50);
 		
