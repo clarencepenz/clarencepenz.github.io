@@ -14,7 +14,6 @@ function selectTab(e){
 
 
 function scrollToTop(e){
-	//let position = document.body.scrollToTop || document.documentElement.scrollToTop;
 	if(document.body.scrollTop !=0 || document.documentElement.scrollTop != 0){
 		window.scrollBy(0, -50);
 		requestAnimationFrame(scrollToTop);
