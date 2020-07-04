@@ -18,7 +18,6 @@ function scrollToTop(e){
 		window.scrollBy(0, -50);
 		requestAnimationFrame(scrollToTop);
 		hide();
-
 	}else{
 		clearTimeout(timeOut);
 	}
