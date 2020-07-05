@@ -29,10 +29,6 @@ function hide(){
 	});
 }
 
-
-
-
-
 function removeBorder(){
 	tabIcons.forEach(icon => icon.classList.remove('border'));
 }
